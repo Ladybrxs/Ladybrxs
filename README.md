@@ -6,9 +6,9 @@ With a background in data analysis and project management, I thrive on finding i
 
 ## 🌟 What I bring to the table:
 
-Expertise in Power BI and Excel for data visualization and reporting
-Hands-on experience in data validation and dashboard creation
-Knowledge of statistical modeling and basic machine learning
+- Expertise in Power BI and Excel for data visualization and reporting
+- Hands-on experience in data validation and dashboard creation
+- Knowledge of statistical modeling and basic machine learning
 
 I’m currently working as a Junior Project and Services Manager at LOGYCA, where I support retail and supplier metrics analysis, and I’m always up for a new challenge! I’m also a Google-certified data analyst and enjoy expanding my skills with new tools and techniques.
 
