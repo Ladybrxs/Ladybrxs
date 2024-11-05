@@ -12,7 +12,7 @@ Knowledge of statistical modeling and basic machine learning
 
 I’m currently working as a Junior Project and Services Manager at LOGYCA, where I support retail and supplier metrics analysis, and I’m always up for a new challenge! I’m also a Google-certified data analyst and enjoy expanding my skills with new tools and techniques.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/leidyra/) or explore my [Portfolio](https://ladybrxs.github.io/Portfolio/). Let’s turn data into insights together!
+Feel free to connect with me. Let’s turn data into insights together!
 
 ## 🌐 Socials:
 
